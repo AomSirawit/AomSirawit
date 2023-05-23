@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm com-sci student - Rajamangala university of technology Phra nakhon | HTML, CSS, Beginner Javascript, Beginner Python
+I'm com-sci student - Rajamangala University of Technology Phra Nakhon | HTML, CSS, Beginner Javascript, Beginner Python
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at [makdeesirawit@gmail.com](mailto:makdeesirawit@gmail.com)
