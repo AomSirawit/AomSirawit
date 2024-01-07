@@ -7,7 +7,7 @@ Com-Sci Student | RMUTP
 i've been learning Web Developer
 
 * 🌍  I'm based in Bangok
-* 🖥️  See my portfolio at [PORTFOLIO](http://https://sirawit-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [PORTFOLIO]([http://https://sirawit-portfolio.netlify.app/](https://sirawit-portfolio.netlify.app/))
 * ✉️  You can contact me at [makdeesirawit@gmail.com](mailto:makdeesirawit@gmail.com)
 * 🧠  I'm learning a reactjs, nextjs, nodejs, expressjs
 
