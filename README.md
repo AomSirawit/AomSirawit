@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aomsirawit&label=Profile%20views&color=0e75b6&style=flat" alt="aomsirawit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aomsirawit" alt="aomsirawit" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel10,Vue.JS**
 
 - 👨‍💻 All of my projects are available at [https://sirawit-portfolio.netlify.app/](https://sirawit-portfolio.netlify.app/)
