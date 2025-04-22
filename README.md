@@ -1,7 +1,7 @@
 ## **<div align="center">Hi i'm Sirawit Makdee 👋</div>**  
   
 
-### <div align="center">I'm a Web Developer Intern </div>  
+### <div align="center">I'm a graduate com-sci student</div>  
   
 
 - 🔭 I’m base in  Bangkok, Thailand  
