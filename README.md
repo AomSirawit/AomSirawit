@@ -7,7 +7,7 @@
 - 🔭 I’m base in  Bangkok, Thailand  
   
 
-- 🌱 I’m currently learning Laravel, Vue.JS  
+- 🌱 I’m currently learning Nodejs, Nextjs
   
 
 - ⚡ My Portfolio : [https://sirawit-portfolio.netlify.app/](https://sirawitportfolio.netlify.app/)  
