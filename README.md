@@ -19,8 +19,6 @@ I'm a software developer specializing in robust web applications, crafting clean
 
 ### 💼 Featured Experience & Projects
 
-*แทนที่จะใส่คลิป YouTube แบบ Reference เราใช้พื้นที่นี้โชว์ผลงานเด่นที่ใช้คุยตอนสัมภาษณ์ได้เลยครับ*
-
 - **Payment Gateway Integration:** Implemented secure payment systems using 2C2P and JWT for robust request payloads and callback validation.
 - **Enterprise E-Tax Services:** Developed automated backend systems to retrieve, process, and securely store E-Tax PDF documents via ERP APIs.
 - **Workflow Automation:** Engineered Python scripts utilizing OS libraries for intelligent file organization and automated background task scheduling.
@@ -29,8 +27,6 @@ I'm a software developer specializing in robust web applications, crafting clean
 ---
 
 ### 📊 GitHub Activity
-
-*(ใช้ Theme แบบโปร่งใสและจัดชิดซ้าย เพื่อให้กลืนไปกับหน้า Profile เหมือนของ Reference มากที่สุด)*
 
 <a href="https://github.com/AomSirawit">
   <img src="https://github-readme-stats.vercel.app/api?username=AomSirawit&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&v=1" alt="GitHub Stats" />
