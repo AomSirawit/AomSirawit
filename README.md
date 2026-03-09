@@ -8,6 +8,8 @@ I'm a software developer specializing in robust web applications, crafting clean
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sirawit-makdee-415714277)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makdeesirawit@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ITFeature)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itfeature)
+
 
 ---
 
@@ -25,12 +27,3 @@ I'm a software developer specializing in robust web applications, crafting clean
 - **Modern Development Standards:** Strong advocate for Git best practices, Conventional Commits, and clean code architecture.
 
 ---
-
-### 📊 GitHub Activity
-
-<a href="https://github.com/AomSirawit">
-  <img src="https://github-readme-stats.vercel.app/api?username=AomSirawit&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&v=1" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/AomSirawit">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AomSirawit&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1" alt="Top Languages" />
-</a>
