@@ -61,15 +61,15 @@ I specialize in building robust web applications and crafting clean, maintainabl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AomSirawit&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AomSirawit&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AomSirawit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=1" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AomSirawit&theme=dark&hide_border=false&v=1" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AomSirawit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=AomSirawit&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AomSirawit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1" alt="Top Languages" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AomSirawit&limit=5&theme=dark&combine_all_yearly_contributions=true&v=1" alt="Top Contributed Repo" />
 </div>
 
 <br/>
