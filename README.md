@@ -2,7 +2,7 @@
 
 **Full-Stack Developer**
 
-I'm a software developer specializing in robust web applications, crafting clean backend logic with Laravel, automating workflows with Python, and building modern interfaces. When I'm not coding, I'm likely brewing Japanese Iced Drip coffee, exploring high-fidelity IEMs, or playing Arma 3.
+I'm a software developer specializing in robust web applications, crafting clean backend logic with Laravel, automating workflows with Python, and building modern interfaces.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white)](https://sirawit-portfolio-iota.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sirawit-makdee-415714277)
